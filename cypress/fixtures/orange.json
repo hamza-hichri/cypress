@@ -1,0 +1,7 @@
+{
+  "username": "Admin",
+  "password": "admin123",
+  "expected": "Dashboard",
+  "directory": ":nth-child(9) > .oxd-main-menu-item > .oxd-text",
+  "verifydirectory": ".oxd-topbar-header-breadcrumb > .oxd-text"
+}
